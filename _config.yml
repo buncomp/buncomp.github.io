@@ -1,0 +1,18 @@
+#Website Settings
+title: Buntingford Computing
+email: enq@buntingfordcomputing.com
+linkedin: 
+description: "PC repair in Buntingford"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://buntingfordcomputing.com" # the base hostname & protocol for your site
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 4000 
+
+sass:
+  sass_dir: assets/css
+  style: :nested  git 
